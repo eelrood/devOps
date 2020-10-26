@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Prueba 123
 
-=======
 kjhdskjhdfkjhfdjkh sfdhkfsdkj fd jhsdfjkfh sdjkfhksjdhksjhsfdkjhfds
->>>>>>> 873e6d64627a765eba89505ce9aa9fd8fb1e3998
+
