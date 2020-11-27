@@ -7,3 +7,8 @@ BODY {
 background-color : #DFFEFD;
 font-family : arial;
 }
+a{
+font-size : 12px;
+font-family : arial;
+font-weight : normal;
+}
